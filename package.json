@@ -1,5 +1,5 @@
 
-	"author": "sholom lesches",
+	
 {
 	"name": "fcc-learn-npm-package-json",
 	
@@ -16,5 +16,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "sholom lesches",
 }
